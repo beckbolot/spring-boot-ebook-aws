@@ -1,0 +1,25 @@
+package com.beck.springbootebookaws.db.enums;
+
+public enum Genre {
+
+    ACTION_ADVENTURE,
+    ART_PHOTOGRAPHY,
+    BIOGRAPHY,
+    CHILDREN_S,
+    DETECTIVE,
+    ESSAYS,
+    FOOD_DRINK,
+    MYSTERY,
+    HORROR,
+    HUMOR,
+    HISTORICAL_FICTION,
+    PARENTING_FAMILIES,
+    ROMANCE,
+    SCIENCE_TECHNOLOGY,
+    TRAVEL,
+    TRUE_CRIME,
+    THRILLER_SUSPENSE,
+    YOUNG_ADULT
+
+
+}
